@@ -1,0 +1,4 @@
+User Interface ()
+Navbar (Newuser button ,clickbox ,saveuser button )
+Table (id , username , enabled)
+Form (username , display name , phone , email,userroles [guest,admin,superadmin],enabledclickbox)
